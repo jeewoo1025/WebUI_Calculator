@@ -13,4 +13,5 @@ Fabric.js 라이브러리를 사용하여 WebUI 계산기를 구현하였다.
 ## 동작화면
 ![캡처](https://user-images.githubusercontent.com/39071676/122630337-c4ae6980-d0fd-11eb-8441-df25730f2f96.JPG)
 
-
+## 시연화면
+![일반계산기](https://user-images.githubusercontent.com/39071676/131690040-35771077-df2c-4be5-a841-73aabadd07e3.gif)
